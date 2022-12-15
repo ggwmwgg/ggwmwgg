@@ -206,6 +206,6 @@
 
 <p>
     <img align="right" src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"></img>
-<i>Special thanks to <a href="https://github.com/brunotacca">@brunotacca</a> and <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a> for the idea of this README.md</i>
+<sub><i>Special thanks to <a href="https://github.com/brunotacca">@brunotacca</a> and <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a> for the idea of this README.md</i></sub>
 </p>
 

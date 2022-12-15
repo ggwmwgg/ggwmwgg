@@ -207,5 +207,5 @@
 
 <p>
     <img align="right" src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"></img>
-<sup><sub><i>Особая благодарность <a href="https://github.com/brunotacca">@brunotacca</a> и <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a> за идеи к этому README_ru.md</i></sub></sup>
+<sub><i>Особая благодарность <a href="https://github.com/brunotacca">@brunotacca</a> и <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a> за идеи к этому README_ru.md</i></sub>
 </p>

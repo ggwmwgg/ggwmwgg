@@ -23,6 +23,7 @@
   <a href="https://steamcommunity.com/id/ggwm/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&color=grey&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ggwmwgg/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ggwmm.t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ggwm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -116,12 +117,12 @@
   <br/>
 	<blockquote>Python based projects</blockquote>
 	<ul>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Arithmetic_HS" target="_blank">Arithmetic Exam Application</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_HS" target="_blank">Smart Calculator</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Easyrider_HS" target="_blank">Easy Rider Bus Company</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Flashcards_HS" target="_blank">Flashcards</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/SCB_HS" target="_blank">Simple Chatty Bot</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Zookeeper_HS" target="_blank">Zookeeper</a></li>
+	<li><a href="https://github.com/ggwmwgg/jb/tree/main/Arithmetic_HS" target="_blank">Arithmetic Exam Application</a></li>
+	<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_HS" target="_blank">Smart Calculator</a></li>
+	<li><a href="https://github.com/ggwmwgg/jb/tree/main/Easyrider_HS" target="_blank">Easy Rider Bus Company</a></li>
+	<li><a href="https://github.com/ggwmwgg/jb/tree/main/Flashcards_HS" target="_blank">Flashcards</a></li>
+	<li><a href="https://github.com/ggwmwgg/jb/tree/main/SCB_HS" target="_blank">Simple Chatty Bot</a></li>
+	<li><a href="https://github.com/ggwmwgg/jb/tree/main/Zookeeper_HS" target="_blank">Zookeeper</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Cash" target="_blank">Cash</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_DNA" target="_blank">DNA</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Mario" target="_blank">Mario</a></li>

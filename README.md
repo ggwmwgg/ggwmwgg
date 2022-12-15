@@ -204,8 +204,8 @@
 
 <hr/>
 
-<p style="text-align:right;font-size: 8px">
-	<p style="float:left;"><img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img></p>	
-	<img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img>
+<p>
+    <img align="right" src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"></img>
+    <font size="-3">Special thanks to <a href="https://github.com/brunotacca">@brunotacca</a> and <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a><br/>for the idea of this README.md</font>
 </p>
 

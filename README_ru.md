@@ -204,11 +204,8 @@
 
 <hr/>
 
-<p style="text-align:left;font-size: 8px">
-<span style="float:right;">
-        <img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img>
-    </span>
-    Особая благодарность <a href="https://github.com/brunotacca">@brunotacca</a> и <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a><br/>за идеи к этому README_ru.md
-    
-</p>
 
+<p>
+    <img align="right" src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"></img>
+<i>Особая благодарность <a href="https://github.com/brunotacca">@brunotacca</a> и <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a><br/>за идеи к этому README_ru.md</i>
+</p>

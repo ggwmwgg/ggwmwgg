@@ -205,7 +205,7 @@
 <hr/>
 
 <p style="text-align:right;font-size: 8px">
-	<img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img>
 	<span style="float:left;"><img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img></span>	
+	<img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img>
 </p>
 

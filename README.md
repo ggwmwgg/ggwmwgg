@@ -211,5 +211,4 @@
     Special thanks to <a href="https://github.com/brunotacca">@brunotacca</a> and <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a><br/>for the idea of this README.md
     
 </p>
->>>>>>> 284c58d (Updated README.md)
 

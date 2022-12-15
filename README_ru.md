@@ -1,32 +1,21 @@
-<<<<<<< HEAD
-<table align="right">
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_ru.md"><img src="images/br-flag.png" height="13"> Русский</a></td></tr>
-</table>
-- 👋 Hi, I’m @ggwmwgg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-=======
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_ru.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us_s.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_ru.md"><img src="images/ru.png" height="13"> Русский</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_ru.md"><img src="images/ru_s.png" height="13"> Русский</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
-&nbsp;&nbsp;&nbsp;:standing_person: &nbsp;I'm 26 years old Backend & ML/AI Enthusiast from Uzbekistan.\
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working at [Codify](https://codifylab.uz/) as mentor. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for innovation and animals:dog:.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem-solving and games:video_game:.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning new technologies and sharpening skills.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2021 (Backend).\
-&nbsp;&nbsp;&nbsp;:family_man_man_boy: &nbsp;Living in Uzbekistan with me, myself:pensive:, and I:dog2:.
+### :space_invader: &nbsp;Обо мне
+&nbsp;&nbsp;&nbsp;:standing_person: &nbsp;Мне 26 лет. Разработчик Backend & ML/AI из Узбекистана.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;На данный момент работаю учителем в [Codify](https://codifylab.uz/). \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Люблю инновации и животных:dog:.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Увлекаюсь решением проблем и играми:video_game:.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;На данный момент занимаюсь изучением новых технологий, а также оттачиванием уже имеющихся.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Программирую с 2021 (Backend).\
+&nbsp;&nbsp;&nbsp;:family_man_man_boy: &nbsp;Нахожусь в Узбекистане :dog: :dog2:.
 
 
-### :link: &nbsp;Where to find me
+### :link: &nbsp;Как меня найти?
 <hr/>
 
 <p align="center">
@@ -37,11 +26,11 @@
 </p>
 
 
-### :computer: &nbsp;Technologies
+### :computer: &nbsp;Стек
 <hr/>
 
 <details>
-  <summary><b>:man_technologist: &nbsp;What I use</b></summary>
+  <summary><b>:man_technologist: &nbsp;Что я использую</b></summary>
   <br/>
 
 
@@ -89,7 +78,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;What I learn</b></summary>
+  <summary><b>:brain: &nbsp;Что я изучаю</b></summary>
   <br/>
 
 ![Ubuntu](/images/svg/ubuntu.svg)&nbsp;
@@ -120,12 +109,12 @@
 
 </details>
 
-### :keyboard: &nbsp;Projects
+### :keyboard: &nbsp;Проекты
 <hr/>
 <details>
-  <summary><b>:test_tube: &nbsp;Python (Pure)</b></summary>
+  <summary><b>:test_tube: &nbsp;Python (чистый)</b></summary>
   <br/>
-	<blockquote>Python based projects</blockquote>
+	<blockquote>Проекты на Python</blockquote>
 	<ul>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Arithmetic_HS" target="_blank">Arithmetic Exam Application</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_HS" target="_blank">Smart Calculator</a></li>
@@ -144,7 +133,7 @@
 <details>
   <summary><b>:globe_with_meridians: &nbsp;Python (Web)</b></summary>
   <br/>
-<blockquote>Python web-based projects</blockquote>
+<blockquote>Веб-приложения на Python</blockquote>
 	<ul>
 		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/CS50_Final" target="_blank">My Portfolio Website (Flask)</a></li>
 		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays (Flask)</a></li>
@@ -156,7 +145,7 @@
 <details>
   <summary><b>:spider_web: &nbsp;Python (Async)</b></summary>
   <br/>
-<blockquote>Python asynchronous based projects</blockquote>
+<blockquote>Асинхронные приложения на Python</blockquote>
 	<ul>
 		<li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template</a></li>
 		<li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram for Cafe (example)</a></li>
@@ -166,16 +155,16 @@
 <details>
   <summary><b>:robot: &nbsp;Python (ML/AI (Soon))</b></summary>
   <br/>
-<blockquote>Python ML/AI based projects</blockquote>
+<blockquote>Python ML/AI</blockquote>
 	<ul>
 		<li><a href="https://github.com/ggwmwgg/" target="_blank">Soon</a></li>
 		<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
 	</ul>
 </details>
 <details>
-  <summary><b>:floppy_disk: &nbsp;Databases</b></summary>
+  <summary><b>:floppy_disk: &nbsp;Базы данных</b></summary>
   <br/>
-    <blockquote>Database based projects</blockquote>
+    <blockquote>Database проекты</blockquote>
 	    <ul>
 		    <li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_for_Investors_HS" target="_blank">Calculator for Investors</a></li>
 		    <li><a href="https://github.com/ggwmwgg/jb/tree/main/Food_Blog_Backend_HS" target="_blank">Food Blog Backend</a></li>
@@ -192,24 +181,24 @@
 <details>
   <summary><b>:brain: &nbsp;Other</b></summary>
   <br/>
-<blockquote>Other projects</blockquote>
+<blockquote>Другие проекты</blockquote>
 	<ul>
 		<li><a href="https://github.com/ggwmwgg/cs50/tree/main/HCJs_Trivia" target="_blank">Trivia (HTML)</a></li>
 		<li><a href="https://github.com/ggwmwgg/" target="_blank">More to come</a></li>
 	</ul>
 </details>
 
-### :chart_with_upwards_trend: &nbsp;GitHub Stats
+### :chart_with_upwards_trend: &nbsp;GitHub Статы
 <hr/>
 <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ggwmwgg&bg_color=00000000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ggwmwgg&bg_color=00000000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&locale=ru" />
 </p>
 <details>
   <summary><b>:eight_spoked_asterisk: &nbsp;Other stats</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://streak-stats.demolab.com?user=ggwmwgg&theme=tokyonight&hide_border=true&background=DD272700" />
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggwmwgg&bg_color=00000000&hide=html,css&hide_title=false&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+        <img height="137px" src="https://streak-stats.demolab.com?user=ggwmwgg&theme=tokyonight&hide_border=true&background=DD272700&locale=ru" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggwmwgg&bg_color=00000000&hide=html,css&hide_title=false&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&locale=ru" />
     </p>
 </details>
 
@@ -219,8 +208,7 @@
 <span style="float:right;">
         <img src="https://komarev.com/ghpvc/?username=ggwmwgg&style=flat-square"><img>
     </span>
-    Special thanks to <a href="https://github.com/brunotacca">@brunotacca</a> and <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a><br/>for the idea of this README.md
+    Особая благодарность <a href="https://github.com/brunotacca">@brunotacca</a> и <a href="https://github.com/Xx-Ashutosh-xX">@Xx-Ashutosh-xX</a><br/>за идеи к этому README_ru.md
     
 </p>
->>>>>>> 284c58d (Updated README.md)
 

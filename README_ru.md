@@ -113,7 +113,7 @@
 ### :keyboard: &nbsp;Проекты
 <hr/>
 <details>
-  <summary><b>:test_tube: &nbsp;Python (чистый)</b></summary>
+  <summary><b>:test_tube: &nbsp;Python (Pure)</b></summary>
   <br/>
 	<blockquote>Проекты на Python</blockquote>
 	<ul>
@@ -132,7 +132,7 @@
 	</ul>
 </details>
 <details>
-  <summary><b>:globe_with_meridians: &nbsp;Python (Web)</b></summary>
+  <summary><b>:globe_with_meridians: &nbsp;Python (Backend)</b></summary>
   <br/>
 <blockquote>Веб-приложения на Python</blockquote>
 	<ul>

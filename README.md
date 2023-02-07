@@ -1,7 +1,3 @@
-<head>
-	<link rel="shortcut icon" type="image/png" href="favicon.png">
-	<title>GGwM</title>
-</head>
 <img src="images/svg/header_en.svg">
 
 

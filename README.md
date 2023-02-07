@@ -177,6 +177,16 @@
 		</li>
 		<li>
 			<details>
+				<summary><b>Async</b></summary>
+				<blockquote>Python asynchronous projects</blockquote>
+					<ul>
+						<li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template</a></li>
+						<li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram for Cafe (example)</a></li>
+					</ul>
+			</details>
+		</li>
+		<li>
+			<details>
 				<summary><b>Other</b></summary>
 				<blockquote>Other backend projects</blockquote>
 				<ul>
@@ -184,16 +194,6 @@
 				</ul>
 			</details>
 		</li>
-	</ul>
-
-</details>
-<details>
-	<summary><b>🕸️ &nbsp;Python (Async)</b></summary>
-	<br/>
-	<blockquote>Python asynchronous based projects</blockquote>
-	<ul>
-		<li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template</a></li>
-		<li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram for Cafe (example)</a></li>
 	</ul>
 </details>
 <details>

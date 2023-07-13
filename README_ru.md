@@ -152,7 +152,7 @@
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/commerce" target="_blank">Commerce (Django/PostgreSQL/HTML5/Bootstrap5/Docker/Tests)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/mail" target="_blank">Mail (Django/PostgreSQL/JavaScript/HTML5/Bootstrap5/Docker/Tests)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/twitter" target="_blank">Twitter (Django/PostgreSQL/JavaScript/HTML5/Bootstrap5/Docker/Tests)</a></li>
-        <li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram Bot Example (Aiogram/Twilio)</a></li>
+        <li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram Bot Example (Aiogram/SQLAlchemy/Gino/Twilio)</a></li>
         <li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays (Flast/SQL/HTML5/CSS3)</a></li>
     </ul>
@@ -235,8 +235,8 @@
 				<summary><b>Остальное</b></summary>
 				<blockquote>Остальные проекты</blockquote>
 				<ul>
-                    <li><a href="" target="_blank">Telegram Bot Example ()</a></li>
-                    <li><a href="" target="_blank">Telegram Bot Template ()</a></li>
+                    <li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram Bot Example (Aiogram/SQLAlchemy/Gino/Twilio)</a></li>
+                    <li><a href="https://github.com/ggwmwgg/tgbot" target="_blank">Telegram Bot Template (Aiogram)</a></li>
                     <li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
 				    <li><a href="https://github.com/ggwmwgg/algo_tema" target="_blank">Binance TEMA Signal Bot</a></li>
                 </ul>

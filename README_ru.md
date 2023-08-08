@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;Обо мне
 &nbsp;&nbsp;&nbsp;:standing_person: &nbsp;Мне 26 лет. Backend разработчик из Узбекистана.\
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;На данный момент работаю фрилансером на [Upwork](https://upwork.com/). \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;На данный момент работаю фрилансером. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Люблю инновации и животных:dog:.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Увлекаюсь решением проблем и играми:video_game:.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Студент UoPeople.\
@@ -51,6 +51,7 @@
 	<img src="https://ggwmwgg.github.io/images/svg/sqlite.svg" alt="SQLite"/>
 	<img src="https://ggwmwgg.github.io/images/svg/postgresql.svg" alt="PostgreSQL"/>
 	<img src="https://ggwmwgg.github.io/images/svg/redis.svg" alt="redis"/>
+	<img src="https://ggwmwgg.github.io/images/svg/rabbitmq.svg" alt="RabbitMQ"/>
 	<br/>
 	<br/>
 	<img src="https://ggwmwgg.github.io/images/svg/django.svg" alt="Django"/>
@@ -60,6 +61,7 @@
 	<img src="https://ggwmwgg.github.io/images/svg/aiohttp.svg" alt="aiohttp"/>
 	<img src="https://ggwmwgg.github.io/images/svg/aiogram.svg" alt="aiogram"/>
 	<img src="https://ggwmwgg.github.io/images/svg/sqlalchemy.svg" alt="SQLAlchemy"/>
+	<img src="https://ggwmwgg.github.io/images/svg/tortoise.svg" alt="Tortoise"/>
 	<img src="https://ggwmwgg.github.io/images/svg/selenium.svg" alt="Selenium"/>
 	<img src="https://ggwmwgg.github.io/images/svg/pandas.svg" alt="Pandas"/>
 	<img src="https://ggwmwgg.github.io/images/svg/numpy.svg" alt="NumPy"/>	
@@ -71,7 +73,6 @@
 	<img src="https://ggwmwgg.github.io/images/svg/git.svg" alt="Git"/>
 	<img src="https://ggwmwgg.github.io/images/svg/github.svg" alt="Github"/>
 	<img src="https://ggwmwgg.github.io/images/svg/heroku.svg" alt="Heroku"/>
-	<img src="https://ggwmwgg.github.io/images/svg/rabbitmq.svg" alt="RabbitMQ"/>
     <img src="https://ggwmwgg.github.io/images/svg/apache.svg" alt="Apache"/>
     <img src="https://ggwmwgg.github.io/images/svg/nginx.svg" alt="NGINX"/>
     <img src="https://ggwmwgg.github.io/images/svg/jenkins.svg" alt="Jenkins"/>
@@ -152,7 +153,7 @@
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/commerce" target="_blank">Commerce (Django/PostgreSQL/HTML5/Bootstrap5/Docker/Tests)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/mail" target="_blank">Mail (Django/PostgreSQL/JavaScript/HTML5/Bootstrap5/Docker/Tests)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50web/tree/main/twitter" target="_blank">Twitter (Django/PostgreSQL/JavaScript/HTML5/Bootstrap5/Docker/Tests)</a></li>
-        <li><a href="https://github.com/ggwmwgg/tgbot/tree/cafe_bot" target="_blank">Telegram Bot Example (Aiogram/SQLAlchemy/Gino/Twilio)</a></li>
+        <li><a href="https://github.com/ggwmwgg/tg_seller_crypto" target="_blank">Telegram Бот Автопродаж (Aiogram/PostgreSQL/Tortoise/Bitcoinlib/Redis/Docker)</a></li>
         <li><a href="https://github.com/ggwmwgg/algo_macd" target="_blank">Binance Algo Trading Bot (MACD) (Python/Binance/TALib/Pandas)</a></li>
         <li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Birthdays (Flast/SQL/HTML5/CSS3)</a></li>
     </ul>
